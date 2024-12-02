@@ -23,8 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 .vs/
-.obj/
-/obj/Debug
+/obj/
 /.gitignore
-/package-lock.json
-#hfgshjfdgshj
