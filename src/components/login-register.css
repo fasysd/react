@@ -1,0 +1,20 @@
+.LoginAndRegister-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: calc( var(--unit-length) * 7);
+    height: calc( var( --unit-length) * 3.5);
+    transform: translate( -50%, -50%);
+    
+    display: flex;
+    flex-direction: column;
+
+    background: rgba(255, 95, 250, 0.371);
+    font-size: var(--font-size);
+    color: var( --text-color);
+
+    align-items: center;
+}
+.LoginAndRegister-box-item {
+    flex: 1;
+}
